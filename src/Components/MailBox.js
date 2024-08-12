@@ -155,7 +155,7 @@ const MailBox = () => {
             </div>
             <div className={`border px-0 w-full ${borderClr}`}></div>
             <p className={`m-1 px-5 py-1 text-gray-500 font-sans`}>
-              To : <span className={`${textColor} font-sans`}>umesh@icloud.com</span>
+              To : <span className={`${textColor} font-sans`}>jeanne@icloud.com</span>
             </p>
             <div className={`border px-0 w-full ${borderClr}`}></div>
             <p className="m-1 px-5 py-1 text-gray-500">
